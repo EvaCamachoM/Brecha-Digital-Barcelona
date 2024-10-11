@@ -14,6 +14,7 @@ digital y cómo afectan a distintos segmentos de la sociedad.
 
 ##### 📊 TÉCNICAS DE DEPURACIÓN DE DATOS  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+  
 1. Comprobación y eliminación de datos duplicados, vacíos o nulos y erróneos.
 2. Sustitución de códigos por etiquetas
 3. Renombrado de columnas
